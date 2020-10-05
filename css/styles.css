@@ -5,9 +5,8 @@
     position: absolute;
     z-index: 1000;
     width:200px;
-    height:100px;
+    height:100px; 
 }
-
 .codigo_tooltip{
     margin:100px;
 }
